@@ -1,0 +1,68 @@
+.header{
+    overflow: hidden;
+}
+.logo{
+width: 20%;
+color: white;
+float: left;
+font-size: 30px;
+text-align: center;
+background-color: rgb(205, 202, 50);
+}
+.banner{
+    width: 80%;
+    color: white;
+    float:left;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(156, 50, 205);  
+}
+.container{
+    overflow: hidden;
+    text-align: center;
+     color:white; 
+     font-size:30px;  
+}
+.left{
+    width: 25%;
+    float: left;
+    height: 600px;
+    background-color:green;
+}
+.middle{
+    float: left;
+    width: 50%;
+    height: 600px;
+    background-color: hotpink;
+}
+.top{
+   height: 30%; 
+   padding-top: 1px;
+   background-color:brown; 
+}
+.center{
+    height: 40%;
+    padding-top: 1px;
+    background-color: pink;
+}
+ .bottom{
+    height: 30%;
+    padding-top: 1px;
+    background-color: lime;
+ } 
+ .right{
+     float: left;
+    width: 25%;
+    height: 600px;
+    background-color:red;
+ }   
+
+ footer{
+    height: 150px;
+    color: white; 
+    padding-top: 5px;
+    font-size: 30px;
+    text-align: center;
+    background-color: blue;
+
+ }
